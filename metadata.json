@@ -1,0 +1,6 @@
+{
+  "name": "3RM Entrance Exam",
+  "description": "3RM Ethiopian Entrance Exam preparation for AIBSBSS students covering Grade 9-12 national exams with full authentic questions, unit classification, countdown timer, immediate & final feedback, and admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
